@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
-  <a href="https://cursos.alura.com.br/formacao-js-backend"><img src="https://img.shields.io/badge/javascript-working-brightgreen?color=green
-" alt="Learn to program in JavaScript with a focus on the backend"></a>
+  <a href="https://cursos.alura.com.br/formacao-js-backend"><img src="https://img.shields.io/badge/javascript-working-brightgreen?color=green" alt="Learn to program in JavaScript with a focus on the backend"></a>
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
 </p>
 
